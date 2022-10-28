@@ -1,0 +1,16 @@
+.list {
+  width: 220px;
+  text-align: left;
+}
+
+.input,
+.feedback,
+.total {
+  margin-bottom: 5px;
+  font-weight: 500;
+  font-size: 16;
+}
+
+.total {
+  margin-top: 10px;
+}
